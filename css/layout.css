@@ -334,7 +334,7 @@ fieldset[disabled] .btn-theme {
   position: relative;
   z-index: 1;
   text-align: center;
-  background-image: : url('/kickoff/sites/default/files/imagenes/02.jpg') !important;
+  background-image: url('/kickoff/sites/default/files/imagenes/02.jpg') !important;
   background-size: cover;
   background-position: center center;
   background-attachment: fixed;
